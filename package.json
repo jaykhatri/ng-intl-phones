@@ -1,16 +1,16 @@
 {
-    "name": "ng4-intl-phone",
+    "name": "ng-intl-phones",
     "version": "1.2.1",
     "description": "International phone prefix library for Angular 2 & 4",
-    "main": "./ng4-intl-phone.umd.js",
-    "module": "./ng4-intl-phone.es5.js",
-    "es2015": "./ng4-intl-phone.js",
-    "typings": "./ng4-intl-phone.d.ts",
+    "main": "./ng-intl-phones.umd.js",
+    "module": "./ng-intl-phones.es5.js",
+    "es2015": "./ng-intl-phones.js",
+    "typings": "./ng-intl-phones.d.ts",
     "author": "kondi0",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kondi0/ng4-intl-phone.git"
+        "url": "https://github.com/jaykhatri/ng-intl-phones.git"
     },
     "engines": {
         "node": ">= 6.9.0",
